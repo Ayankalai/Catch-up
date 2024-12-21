@@ -2,7 +2,7 @@
 
 Catch-up is a social media platform designed to allow users to share and explore videos, follow others, and interact with posts. Whether you're uploading your own content or discovering new videos, Catch-up offers an engaging and interactive experience.
 
-![Catch-up Logo](./assets/catch-up-logo.png)
+
 
 ## Features
 - **User Authentication**: Users can sign up, log in, and manage their profiles.
